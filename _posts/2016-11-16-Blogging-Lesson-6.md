@@ -54,6 +54,6 @@ I also was helped by people around me, as well as the teacher. This time, I was 
   <tr>
     <td>Next time, I will ask only when I am stuck and have tried it already for a while. This will allow me to learn more independently on my work, which is what I am working towards.</td>
   </tr>
-</table>
+</table><iframe height="320" width="720" src="https://docs.google.com/spreadsheets/d/1-dD5h0dTgaP5_Bmpl8lKHsAOZmMDu9e9sYRXZAddGo4/pubhtml?widget=true&amp;headers=false"></iframe>
 
 
