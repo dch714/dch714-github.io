@@ -3,7 +3,7 @@ title: Blogging Lesson 11
 layout: post
 author: douglas.claridge-han
 permalink: /blogging-lesson-11/
-source-id: 1scIa1FLeYMn4D83xAXvXOPradJcMC6ZKSmjuz7A3UzM
+source-id: 13Nof516T6Fnq9uIBWyzU6q8n_evi_Hq-hTOVbCfIcFI
 published: true
 ---
 <table>
@@ -21,7 +21,7 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Learn about different crypt types.</td>
+    <td>Learn about different crypting types.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
